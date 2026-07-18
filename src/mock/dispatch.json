@@ -1,0 +1,24 @@
+{
+  "campaign": {
+    "name": "Campanha de Segmentação Itaú",
+    "channel": "E-mail",
+    "subject": "Atualização importante sobre seu negócio",
+    "scheduledFor": "2026-07-18 09:30"
+  },
+  "user": {
+    "name": "Marina Alves",
+    "email": "marina.alves@itau.com.br",
+    "role": "Analista de CRM",
+    "area": "Marketing"
+  },
+  "approval": {
+    "recipientEmail": "camila.rodrigues@itau.com.br",
+    "token": "ITAU-APPROVAL-482913",
+    "endpoint": "https://example.com/approval"
+  },
+  "checklist": [
+    "Links testados",
+    "Assunto aprovado",
+    "Público validado"
+  ]
+}
